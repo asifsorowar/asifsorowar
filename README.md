@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifsorowar" alt="asifsorowar" /></a> </p>
 
-- 🔭 I’m currently working on **Vivasoft Limited**
+- 🔭 I’m currently working on **Something cool**
 
 - 🌱 I’m currently learning **Cloud infrastructure, computer vision, cloud ML and other advanced concepts.**
 
-- 👯 I’m looking to collaborate on **complex, visionary, and wonderful projects.**
+- 👯 I’m looking to collaborate on **visionary and wonderful projects.**
 
 - 👨‍💻 All of my projects are available at [Drive Link](https://drive.google.com/file/d/1Cq4oXYDX3P2nimxLAPm242nJodDZOyLn/view?usp=sharing)
 
-- 💬 Ask me about **I have extensive knowledge of a wide range of cutting-edge front-end and back-end technologies, frameworks, databases, and coding best practices. I’m proficient in the AWS ecosystem, popular JavaScript/TypeScript, Python and CSS frameworks, libraries and run-time environments. Also, have a solid understanding of SQL and NoSQL databases, DevOps, management tools and Agile workflows.**
+- 💬 Ask me about **Javascript/Typescript/Python OR React.js/Next.js/Node.js/Vanilla.js/Express.js/Redux.js(thunk, toolkit, saga)/Django/FastAPI/CSS-frameworks AND AWS/GraphQL/WebSocket/Docker/Redis/RabbitMQ/serverless.com/Terraform/Agile methodologies**
 
 - 📫 How to reach me **sorowar.asif@gmail.com**
 
